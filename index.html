@@ -12,6 +12,6 @@
     <p>envoyez nous un email à l'adresse email : cetteAdresseExistePasReelement@hotmail.com</p>
     <p></p>
     <p><strong>Téléphone :</strong> 06 12 12 12 12</p>
-    <p>Ou par <strong>message sur </strong> <a href="https://rene-gosse.mon-ent-occitanie.fr/"</a></p>
+    <p>Ou par <strong>message sur </strong> <a href="https://rene-gosse.mon-ent-occitanie.fr/">la messagerie de l'ENT</a></p>
     </body>
 </html> 
