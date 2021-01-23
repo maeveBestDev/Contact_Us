@@ -7,7 +7,14 @@
 
   <body>
         <h1>Contact us :</h1>
-    <p>Rechercher un GIF : <input type="text"/></p>
+    <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Rechercher sur le site…"
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Rechercher</button>
+  </div>
+</form>
         <p><strong>Vous souhaitez nous contacter ?</strong></p>
     <p></p>
     <p>envoyez nous un email à l'adresse email : cetteAdresseExistePasReelement@hotmail.com</p>
