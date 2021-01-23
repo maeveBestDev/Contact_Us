@@ -5,7 +5,7 @@
     </head>
 
   <body>
-        <h1>Contact us :</h1>
+        <h1>Vous souhaitez nous contacter ?</h1>
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
@@ -14,7 +14,6 @@
     <button>Rechercher</button>
   </div>
 </form>
-        <p><strong>Vous souhaitez nous contacter ?</strong></p>
     <p></p>
     <p>envoyez nous un email à l'adresse email : cetteAdresseExistePasReelement@hotmail.com</p>
     <p></p>
