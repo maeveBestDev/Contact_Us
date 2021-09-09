@@ -12,10 +12,9 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
-    <p>envoyez nous un email à l'adresse email : cetteAdresseExistePasReelement@hotmail.com</p>
+    <p>envoyez nous un email à l'adresse email : maevedev@hotmail.com</p>
     <p></p>
-    <p><strong>Téléphone :</strong> 06 12 12 12 12</p>
-    <p>Ou par <strong>message sur </strong> <a href="https://rene-gosse.mon-ent-occitanie.fr/">la messagerie de l'ENT</a></p>
+    <p><strong>Discord :</strong> Maeve-chan#2077</p>
     </body>
     <p></p>
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil
