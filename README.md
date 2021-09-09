@@ -17,5 +17,8 @@
     <p><strong>Discord :</strong> Maeve-chan#2077</p>
     </body>
     <p></p>
+    
+              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885485954595450880/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background.jpg?width=860&height=427)"></div>
+    
     <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil
 <script src="script.js"></script>
