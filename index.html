@@ -3,7 +3,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
         <title>GifMignon/Contact_us</title>
-        <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889470963513700362/manette.png?width=427&height=427">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889477592544071710/braquette.png?width=427&height=427">
     </head>
 
   <body>
