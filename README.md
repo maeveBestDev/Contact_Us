@@ -1,25 +1,24 @@
-<html lang="fr">
+<html lang="en">
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
-        <title>GifMignon/Contact_us</title>
+        <title>Maeve's site UwU/Contact me</title>
         <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/889477592544071710/braquette.png?width=427&height=427">
     </head>
 
   <body>
-        <h1>Vous souhaitez nous contacter ?</h1>
+        <h1>Would you like to contact me ?</h1>
 <form>
 <input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
-    <p>envoyez nous un email à l'adresse email : maevedev@hotmail.com</p>
+    <p>Send an email at : maevedev@hotmail.com</p>
     <p></p>
-    <p><strong>Discord :</strong> Maeve-chan#2077</p>
+    <p><strong>Discord :</strong> スレヤ一#5661</p>
     </body>
     <p></p>
     
-              <div class="image" style="background-image:url(https://media.discordapp.net/attachments/884718653348667412/885540768163442688/totalement_2.png?width=509&height=427)"></div>
     
-    <button><a href="https://maevebestdev.github.io/Main_Page/">Retour à l'acceuil
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Back to Home
 <script src="script.js"></script>
