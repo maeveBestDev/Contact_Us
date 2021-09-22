@@ -7,11 +7,17 @@
     </head>
 
   <body>
-        <h1>Would you like to contact me ?</h1>
-<form>
-<input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
-<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+          <form role="search">
+  <div>
+    <input type="search" id="maRecherche" name="q"
+     placeholder="Search the site..."
+     aria-label="Rechercher parmi le contenu du site">
+    <button>Research</button>
+  </div>
 </form>
+      
+        <h1>Would you like to contact me ?</h1>
+
     <p></p>
     <p>Send an email at : maevedev@hotmail.com</p>
     <p></p>
@@ -19,6 +25,9 @@
     </body>
     <p></p>
     
-    
-    <button><a href="https://maevebestdev.github.io/Main_Page/">Back to Home
+        <p></p>
+    <button><a href="https://maevebestdev.github.io/Main_Page/">Back to Home</a></button>
+<p> </p>
+    <a href="https://maevebestdev.github.io/About_Us/">About me</a>
+    <a href="https://maevebestdev.github.io/Help/">Help</a>
 <script src="script.js"></script>
